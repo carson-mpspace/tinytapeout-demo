@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's all self explanatory digital logic!
 
 ## How to test
 
-Explain how to use your project
+Power on the chip and let it burn!
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display
