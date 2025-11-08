@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It's all self explanatory digital logic!
+It's a tapped delay line! Useful perhaps for measuring time between start and stop signals
 
 ## How to test
 
