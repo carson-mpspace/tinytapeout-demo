@@ -17,4 +17,4 @@ Launch a rising edge on start and some time after, launch it on stop, and then f
 
 ## External hardware
 
-
+Signal generator and possibly a FPGA would be nice
