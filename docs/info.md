@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It's a tapped delay line! Useful perhaps for measuring time between start and stop signals
+It's a tapped delay line! Useful perhaps for measuring time between start and stop signals. I have no idea how fast the signal will propagate through the delay line formed with the inverters, so this is a good characterisation test for future projects.
 
 ## How to test
 
