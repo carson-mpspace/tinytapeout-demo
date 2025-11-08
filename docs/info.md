@@ -13,8 +13,8 @@ It's a tapped delay line! Useful perhaps for measuring time between start and st
 
 ## How to test
 
-Power on the chip and let it burn!
+Launch a rising edge on start and some time after, launch it on stop, and then flick through the mux'es to see how far the start signal has travelled down the delay line!
 
 ## External hardware
 
-7 segment display
+
